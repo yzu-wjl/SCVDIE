@@ -1,0 +1,4 @@
+model_checkpoint_path: "transformer-word-7"
+all_model_checkpoint_paths: "transformer-word-7"
+all_model_checkpoint_timestamps: 1641381564.741548
+last_preserved_timestamp: 1641380866.131632
