@@ -1,4 +1,4 @@
 # SCVDIE
 Welcome to SCVDIE space! 
 
-Due to time constraints this project will be gradually updated in future work!
+This an implementation of Ensemble Learning for Smart Contract Vulnerability Detection. It can reduce the dependence on large-scale data.
